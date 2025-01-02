@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ws-frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-02T10:59:42.913649391Z"
+    description: A Helm chart for Kubernetes
+    digest: 0e5eefad6bbcb44e6af48b895c0f756c69930c5f9d5fd489420b1993829bc871
+    name: ws-frontend
+    type: application
+    urls:
+    - ws-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-02T10:59:42.913307197Z"

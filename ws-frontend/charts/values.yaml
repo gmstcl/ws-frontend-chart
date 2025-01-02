@@ -1,0 +1,8 @@
+replicas: 2
+namespace: ws
+
+frontend:
+  image: 226347592148.dkr.ecr.ap-northeast-2.amazonaws.com/ws-frontend:frontend
+  version: blue
+
+preStopSleep: 20
